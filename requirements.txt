@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+psycopg2
+SQLAlchemy
+python-dotenv
+flask-session
+redis
+Flask-JWT-Extended
+Flask-Mailman
